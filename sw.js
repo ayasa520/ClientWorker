@@ -3,7 +3,9 @@ let cachelist = [];
 
 const interceptdomain = [
     "127.0.0.1:5500",
-    "clientworker.pages.dev"
+    "clientworker.pages.dev",
+    "blog.liangmianbaojiazhishi.com",
+    "www.bilibilianime.com"
 ]
 
 
